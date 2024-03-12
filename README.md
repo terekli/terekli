@@ -2,7 +2,7 @@
 <h3 align="center">A PhD candidate with a passion towards algorithms for 3D printing via Direct-Ink-Writing</h3>
 <h4 align="center">Learn more about my research <a href="https://scholar.google.com/citations?user=T7PdTiUAAAAJ&hl=en">here.</a></h4>
 
-<img align="center" alt="print" width="400" src="header2.png">
+<img align="center" alt="print" width="1000" src="header2.png">
 
 - 🔭 I’m currently working on [BotSlice](https://github.com/terekli/BotSlice)
 
