@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Terek Li</h1>
 <h3 align="center">A PhD candidate with a passion towards algorithms for 3D printing via Direct-Ink-Writing</h3>
-<img align =“right” alt=“Coding” width=“400” src=“https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjd4bzQwdTlqdGgxeWJocHdmeDd5bDJlenJreHl0cXR6bm1uZ2UwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j0Y3hBhVf5uYyKRq8m/giphy.gif”>
+<img align="right" alt="test" width="400" src=“https://i.gifer.com/93vb.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=terekli&label=Profile%20views&color=0e75b6&style=flat" alt="terekli" /> </p>
 
