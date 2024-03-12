@@ -2,7 +2,7 @@
 <h3 align="center">A PhD candidate with a passion towards algorithms for 3D printing via Direct-Ink-Writing</h3>
 <h4 align="center">Learn more about my research <a href="https://scholar.google.com/citations?user=T7PdTiUAAAAJ&hl=en">here.</a></h4>
 
-<img align="center" alt="print" width="400" src="https://i.gifer.com/93vb.gif](https://upload.wikimedia.org/wikipedia/commons/e/e2/Math_-_Idil_Keysan_-_Wikimedia_Giphy_stickers_2019.gif">
+<img align="center" alt="print" width="400" src="https://i.gifer.com/93vb.gif">
 
 - 🔭 I’m currently working on [BotSlice](https://github.com/terekli/BotSlice)
 
